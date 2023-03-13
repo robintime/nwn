@@ -1,0 +1,9 @@
+2DA V2.0                                                                                     
+                                                                                             
+           FeatLabel                            FeatIndex   List   GrantedOnLevel   OnMenu   
+1          FEAT_PRESTIGE_DEATH_ATTACK_1         455         3      1                0        
+2          FEAT_PRESTIGE_DEATH_ATTACK_2         456         3      3                0        
+3          FEAT_PRESTIGE_DEATH_ATTACK_3         457         3      5                0        
+4          FEAT_PRESTIGE_DEATH_ATTACK_4         458         3      7                0        
+5          FEAT_PRESTIGE_DEATH_ATTACK_5         459         3      9                0        
+6          Evasion                              206         3      2                0        
