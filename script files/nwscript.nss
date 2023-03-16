@@ -1968,6 +1968,8 @@ int SPELL_HORSE_PARTY_DISMOUNT             = 816;
 int SPELL_HORSE_ASSIGN_MOUNT               = 817;
 int SPELL_PALADIN_SUMMON_MOUNT             = 818;
 
+int SPELLABILITY_RENDTEAR                  = 840;
+
 // these constants must match those in poison.2da
 int POISON_NIGHTSHADE                    = 0;
 int POISON_SMALL_CENTIPEDE_POISON        = 1;
@@ -3332,6 +3334,12 @@ int FEAT_PLAYER_TOOL_07                     = 1112;
 int FEAT_PLAYER_TOOL_08                     = 1113;
 int FEAT_PLAYER_TOOL_09                     = 1114;
 int FEAT_PLAYER_TOOL_10                     = 1115;
+
+int FEAT_LUPINE_ATTACK_1                    = 1116;
+int FEAT_LUPINE_ATTACK_2                    = 1117;
+int FEAT_LUPINE_ATTACK_3                    = 1118;
+int FEAT_WPINFLICT                          = 1119;
+int FEAT_RENDTEAR                           = 1120;
 
 // Special Attack Defines
 int SPECIAL_ATTACK_INVALID              =   0;
